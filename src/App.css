@@ -1,0 +1,9 @@
+.App {
+    display:flex;
+    flex-direction: column;
+}
+
+.Cards {
+    display: flex;
+    flex-wrap: wrap; /*pra ele permitir quebrar linha em um flex container*/
+}
