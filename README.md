@@ -1,4 +1,18 @@
-# Getting Started with Create React App
+# Fundamentos React de forma pratica:
+
+ fundamentos-react.gif![GIF fundamentos-react](https://user-images.githubusercontent.com/53496180/127350054-76535b38-40d2-4bd8-a45a-10e1a83c1498.gif)
+
+## começo
+ 1 na sua maquina, abra o terminal e escreva o comando npx..
+      2 logo depois abra o projeo no terminal e execute para abrir no seu navegador: 
+       !!É NECESSARIO!! ter o nodeJs/yarn instalados na sua maquina e o ReactJs instalado no seu projeto.. então
+    antes de começar, certifique-se que esteja tudo certinho.
+    
+    npx creat-react-app nomedoprojeto
+    
+    npm start ou yarn start
+    
+    
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
